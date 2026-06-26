@@ -1,4 +1,4 @@
-# TDD and ATDD Exercises
+# Development Practices
 
 This repository contains exercises and information about Test-Driven Development (TDD) and Acceptance Test-Driven Development (ATDD).
 
