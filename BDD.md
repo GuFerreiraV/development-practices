@@ -12,7 +12,9 @@ O BDD se conecta diretamente a duas metodologias já conhecidas:
 
 - TDD (Test-Driven Development), herda a prática de escrever testes antes da implementação.
 - DDD (Domain-Driven Design), absorve a ideia da linguagem ubíqua, que aproxima tecnologia da linguagem do negócio.
-![alt text](image.png)
+
+![alt text](images/image.png)
+
 Enquanto o TDD é voltado para testes de unidade e código, e o DDD foca em modelar o domínio, o BDD integra os dois mundos, garantindo que o software seja desenvolvido com base em comportamentos que entregam valor real.
 ### Benefícios de usar BDD
 Essa metodologia ajuda a alinhar expectativas, otimizar processos e reduzir falhas. Entre os principais benefícios, destacam-se:
